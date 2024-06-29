@@ -2,5 +2,5 @@ NAME: OWOSENI EMMANUEL DAMILOLA txt111122233333
 COURSE: ENVIRONMENTAL AUDIT (MEM806)
 DATE: 20-November-2023
 MATRIC NO: 219073040
-TOPIC: LIFE CYCLE ASSESSMENT OF AN INDUSTRIAL CHEMIST.
+TOPIC: LIFE CYCLE ASSESSMENT OF AN INDUSTRIAL CHEMIST and environmentalist.
 The life cycle assessment (LCA) stage of an industrial chemist involves evaluating the environmental impacts of chemical processes and products throughout their life cycle, from extraction of raw materials to production, use, and disposal. LCA aims to quantify the potential environmental and health impacts of activities, especially the production and use of materials, and to identify potential sources of pollution and develop strategies to minimize their impact on the environment. Industrial chemists can contribute to sustainability by embracing green chemistry and designing processes with minimal environmental impacts, ensuring that resources are not used at a rate faster than they can be replenished. LCA involves several stages, including goal and scope definition, inventory analysis, life cycle impact assessment, and interpretation. By applying LCA, industrial chemists can measure and reduce the environmental impacts of chemical processes, contributing to the development of sustainable and environmentally friendly chemical products and processes.
